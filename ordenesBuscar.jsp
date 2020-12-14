@@ -7,5 +7,6 @@
         Filtro por nombre de esposa
         Resistencia de madre.
         Resistencia de padre.
+        Filtro de cursos
     </BODY>
 </HTLML>
