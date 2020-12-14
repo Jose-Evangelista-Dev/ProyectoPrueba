@@ -9,5 +9,6 @@
     Mi papá nunca se rinde.
 
     Mis Cursos
+    Mis Certificados
 </BODY>
 </HTLML>

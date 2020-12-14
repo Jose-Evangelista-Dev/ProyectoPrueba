@@ -9,6 +9,7 @@
         Detalle Resistencia de padre.
 
         Detalle Cursos
+        Detalle Certificados
 
         boton buscar        
     </BODY>

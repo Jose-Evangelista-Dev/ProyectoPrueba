@@ -8,5 +8,6 @@
         Resistencia de madre.
         Resistencia de padre.
         Filtro de cursos
+        Filtro de Certificados
     </BODY>
 </HTLML>
