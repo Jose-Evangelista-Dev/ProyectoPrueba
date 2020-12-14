@@ -5,5 +5,7 @@
         Filtro por Dirección
         Filtro por hijo
         Filtro por nombre de esposa
+        Resistencia de madre.
+        Resistencia de padre.
     </BODY>
 </HTLML>
