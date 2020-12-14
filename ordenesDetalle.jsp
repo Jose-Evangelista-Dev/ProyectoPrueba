@@ -7,5 +7,6 @@
         Detalle nombre de esposa
         Detalle Resistencia de madre.
         Detalle Resistencia de padre.
+        boton buscar
     </BODY>
 </HTLML>
