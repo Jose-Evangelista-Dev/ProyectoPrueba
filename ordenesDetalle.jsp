@@ -11,7 +11,7 @@
         Detalle Resistencia de abuelos.
         Detalle Cursos
         Detalle Certificados
-        Detalle Diplomas
+        Detalle Diploma
 
         boton buscar        
     </BODY>

@@ -11,6 +11,6 @@
     Mi Abuelo nunca se rinde.
     Mis Cursos
     Mis Certificados
-    Mis Diplomas
+    Mis Diploma
 </BODY>
 </HTLML>
