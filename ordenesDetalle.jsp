@@ -13,6 +13,7 @@
         Detalle Certificados
         Detalle Capacitaciones
         Detalle Diplomas
+        Detalle de base de datos
 
         boton buscar        
     </BODY>
