@@ -11,6 +11,6 @@
         Resistencia de abuelos.
         Filtro de cursos
         Filtro de Certificados
-        Filtro de Diploma
+        Filtro de Diplomas
     </BODY>
 </HTLML>
