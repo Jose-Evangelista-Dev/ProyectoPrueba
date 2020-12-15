@@ -11,5 +11,6 @@
     Mi Abuelo nunca se rinde.
     Mis Cursos
     Mis Certificados
+    Mis Capacitaciones
 </BODY>
 </HTLML>
