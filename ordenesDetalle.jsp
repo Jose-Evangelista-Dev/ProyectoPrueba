@@ -9,6 +9,9 @@
         Detalle Resistencia de madre.
         Detalle Resistencia de padre.
         Detalle Resistencia de abuelos.
-        boton buscar
+        Detalle Cursos
+        Detalle Certificados
+
+        boton buscar        
     </BODY>
 </HTLML>

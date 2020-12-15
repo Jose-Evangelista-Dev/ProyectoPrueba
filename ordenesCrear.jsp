@@ -9,5 +9,7 @@
     Mi mamá nunca se rinde.
     Mi papá nunca se rinde.
     Mi Abuelo nunca se rinde.
+    Mis Cursos
+    Mis Certificados
 </BODY>
 </HTLML>
