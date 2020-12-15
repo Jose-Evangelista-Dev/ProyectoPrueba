@@ -9,5 +9,6 @@
         Resistencia de padre.
         Filtro de cursos
         Filtro de Certificados
+        Filtro de Capacitaciones
     </BODY>
 </HTLML>

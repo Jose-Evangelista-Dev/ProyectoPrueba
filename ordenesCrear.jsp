@@ -10,5 +10,6 @@
 
     Mis Cursos
     Mis Certificados
+    Mis Capacitaciones
 </BODY>
 </HTLML>
