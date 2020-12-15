@@ -13,5 +13,6 @@
         Filtro de Certificados
         Filtro de Capacitaciones
         Filtro de Diplomas
+        Filtro de basde datos
     </BODY>
 </HTLML>
