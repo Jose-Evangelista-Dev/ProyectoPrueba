@@ -1,2 +1,2 @@
 # ProyectoPrueba
-Repositorio de prueba
+Proyecto de Prueba
