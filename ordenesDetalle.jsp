@@ -12,6 +12,7 @@
         Detalle Cursos
         Detalle Certificados
         Detalle Capacitaciones
+        Detalle Diplomas
 
         boton buscar        
     </BODY>

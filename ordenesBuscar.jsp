@@ -12,5 +12,6 @@
         Filtro de cursos
         Filtro de Certificados
         Filtro de Capacitaciones
+        Filtro de Diplomas
     </BODY>
 </HTLML>
