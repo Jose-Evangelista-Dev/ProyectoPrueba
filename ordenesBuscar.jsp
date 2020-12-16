@@ -9,8 +9,5 @@
         Resistencia de madre.
         Resistencia de padre.
         Resistencia de abuelos.
-        Filtro de cursos
-        Filtro de Certificados
-        Filtro de Diplomas
     </BODY>
 </HTLML>
