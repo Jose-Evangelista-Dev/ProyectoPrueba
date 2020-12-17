@@ -8,7 +8,9 @@
         Detalle nombre de esposa
         Detalle Resistencia de madre.
         Detalle Resistencia de padre.
-        Detalle Resistencia de abuelos.
+        Detalle Cursos.
+        Detalle Certificados.
+        Detalle Capacitaciones.
 
         boton buscar        
     </BODY>

@@ -8,6 +8,9 @@
         Filtro por nombre de esposa
         Resistencia de madre.
         Resistencia de padre.
-        Resistencia de abuelos.
+        Filtro de cursos.
+        Filtro de Certificados.
+        Filtro de Capacitaciones.
+
     </BODY>
 </HTLML>
