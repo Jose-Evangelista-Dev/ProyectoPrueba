@@ -8,8 +8,8 @@
     Mi mamá nunca se rinde.
     Mi papá nunca se rinde.
 
-    Mis Cursos
-    Mis Certificados
-    Mis Capacitaciones
+    Mis Cursos.
+    Mis Certificados.
+    Mis Capacitaciones.
 </BODY>
 </HTLML>

@@ -8,9 +8,9 @@
         Detalle Resistencia de madre.
         Detalle Resistencia de padre.
 
-        Detalle Cursos
-        Detalle Certificados
-        Detalle Capacitaciones
+        Detalle Cursos.
+        Detalle Certificados.
+        Detalle Capacitaciones.
 
         boton buscar        
     </BODY>
